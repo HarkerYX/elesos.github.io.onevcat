@@ -8,27 +8,27 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: OneV's Den
+title: 艺搜天下
 
-tagline: 上善若水，人淡如菊
+tagline: 知行合一 以人为镜
 description: >-
-    上善若水，人淡如菊。这里是王巍 (onevcat) 的博客，用来记录一些技术和想法，主要专注于 Swift 和 iOS 开发。
-url: 'https://onevcat.com'
-author: 王巍 (onevcat)
+    用来记录一些技术和想法。
+url: 'https://elesos.github.io/'
+author: elesos
 avatar: /assets/images/avatar.jpg
 
 github:
-  username: onevcat
+  username: elesos
 
 twitter:
-  username: onevcat
+  username: hnrayer
 
 social:
-  name: onevcat
-  email: onev@onevcat.com
+  name: elesos
+  email: admin@elesos.com
   links:
-    - https://github.com/onevcat
-    - https://twitter.com/onevcat
+    - https://github.com/starRTC
+    - https://twitter.com/hnrayer
 
 lang: zh-Hans
 
